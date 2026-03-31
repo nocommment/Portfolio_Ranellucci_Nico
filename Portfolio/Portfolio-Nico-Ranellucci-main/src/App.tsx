@@ -118,7 +118,7 @@ export default function App() {
             >
               <div className="w-full aspect-[4/3] bg-neutral-200 rounded-2xl overflow-hidden relative group">
                 <img 
-                  src="C:\Users\ranel\OneDrive\Dokumente\Bewerbung\Neu\Portfolio\Portfolio\bilder\ich.png" 
+                  src="bilder\ich.png" 
                   alt="Nico Ranellucci" 
                   className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700 scale-110 group-hover:scale-100"
                   referrerPolicy="no-referrer"
@@ -302,7 +302,7 @@ export default function App() {
             <div className="flex flex-col gap-8 w-[820px] shrink-0">
               <div className="rounded-3xl overflow-hidden border border-charcoal/5 bg-white">
                 <img 
-                  src="C:\Users\ranel\OneDrive\Dokumente\Bewerbung\Neu\Portfolio\Portfolio\bilder\vorder.png" 
+                  src="bilder\vorder.png" 
                   alt="Quick-Start-Guide Vorderseite" 
                   className="w-full h-auto" 
                   referrerPolicy="no-referrer" 
@@ -310,7 +310,7 @@ export default function App() {
               </div>
               <div className="rounded-3xl overflow-hidden border border-charcoal/5 bg-white">
                 <img 
-                  src="C:\Users\ranel\OneDrive\Dokumente\Bewerbung\Neu\Portfolio\Portfolio\bilder\innenseite.png" 
+                  src="bilder\innenseite.png" 
                   alt="Quick-Start-Guide Innenseite" 
                   className="w-full h-auto" 
                   referrerPolicy="no-referrer" 
